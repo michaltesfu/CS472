@@ -1,20 +1,23 @@
+body{
+    background-color: azure;
+}
 
 header {
- 
     background-image: url(./javascript.jpg); 
     background-size: cover;
     height: 200px; 
     width: 100vw;
     padding: 30px;
-    margin: 30px;
-    
+    margin: 30px; 
 }
+
 h1{
     color: whitesmoke;
     margin: auto;
     padding: 10px;
     color: whitesmoke;
 }
+
 .me{
     width: 130px;
     height: 180px;
@@ -24,7 +27,6 @@ h1{
 }
 .mik{
     float: right;
-   
 }
 
 footer{
