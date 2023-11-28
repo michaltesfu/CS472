@@ -22,12 +22,13 @@ h1{
     overflow: hidden;
     
 }
-p{
-   float: right;
-
+.mik{
+    float: right;
+   
 }
 
 footer{
-    background-color:rgb(223, 251, 223)
-    ;
+    background-color:rgb(223, 251, 223);
+    margin: auto;
+    padding: 10px;
 }
